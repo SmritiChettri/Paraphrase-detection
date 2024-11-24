@@ -18,7 +18,8 @@ A FLASK-based simple web application for detecting whether two given sentences a
 - **NLTK**: Text preprocessing.
 - **Scikit-learn**: For TF-IDF vectorization.
 - **HTML/CSS**: Frontend UI.
-## [![Watch the video](preview.mp4)
+## [Click here to watch the demo video](https://github.com/SmritiChettri/Paraphrase-detection/raw/main/preview.mp4)
+
 
 
 

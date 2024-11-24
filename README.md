@@ -4,7 +4,6 @@ A FLASK-based simple web application for detecting whether two given sentences a
 # Table of Contents
 1. Features
 2. technologies Used
-3. File Structure
 
 ## Features
 - Input two sentences via web-form.
@@ -19,18 +18,7 @@ A FLASK-based simple web application for detecting whether two given sentences a
 - **NLTK**: Text preprocessing.
 - **Scikit-learn**: For TF-IDF vectorization.
 - **HTML/CSS**: Frontend UI.
+## [![Watch the video](preview.mp4)
 
-## File Structure
-
-paraphrase-detection/
-│
-├── app.py                   # Main Flask application
-├── detection.ipynb          # main file
-├── templates/               # HTML templates for the app
-│   └── index.html           # UI for input and results
-├── paraphrase_model.h5      # Pre-trained Keras model        
-├── tfidf_vectorizer.pkl     # TF-IDF vectorizer
-├── questions.csv            # datasets
-└── README.md                # Project description
 
 
